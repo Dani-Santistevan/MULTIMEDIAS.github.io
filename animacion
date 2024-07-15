@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animaciones</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        header nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        header nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        header nav ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+        main {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="pagina1.html">Conceptos</a></li>
+                <li><a href="pagina2.html">Ventajas</a></li>
+                <li><a href="pagina3.html">Tipos de Medios</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Animaciones</h1>
+        <p>Las animaciones son una forma efectiva de visualizar conceptos complejos y hacer el aprendizaje más interactivo.</p>
+    </main>
+</body>
+</html>
